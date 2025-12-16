@@ -55,18 +55,6 @@ A classic game implementation to demonstrate game logic and state management wit
 
 ---
 
-## 📸 Screenshots
-
-| **Main Launcher** | **Encryption Toolkit** |
-|:---:|:---:|
-| ![Launcher](https://via.placeholder.com/400x300?text=App+Launcher+UI) | ![Crypto](https://via.placeholder.com/400x300?text=Encryption+UI) |
-
-| **To-Do Chatbot** | **Sudoku Solver** |
-|:---:|:---:|
-| ![Chatbot](https://via.placeholder.com/400x300?text=Chatbot+Interface) | ![Sudoku](https://via.placeholder.com/400x300?text=Sudoku+Solver) |
-
----
-
 ## 🚀 Installation & Usage
 
 ### Prerequisites
